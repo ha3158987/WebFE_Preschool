@@ -52,3 +52,36 @@ Compile 언어로 C/C++을 들 수 있으며, Java 역시 컴파일러가 Java�
 <a href="https://jins-dev.tistory.com/entry/Compiler-%EC%99%80-Interpreter-%EC%9D%98-%EA%B0%9C%EB%85%90%EA%B3%BC-%EC%B0%A8%EC%9D%B4%EC%A0%90" target="_blank">컴파일러와 인터프리터의 개념과 차이점</a><br>
 <a href="https://velog.io/@kyusung/%ED%95%A8%EC%88%98%ED%98%95-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%EC%9A%94%EC%95%BD" target="_blank">함수형 프로그래밍 요약</a><br>
 <a href="https://kamang-it.tistory.com/entry/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%ED%8C%A8%EB%9F%AC%EB%8B%A4%EC%9E%84%EC%9D%B4%EB%B2%A4%ED%8A%B8-%EA%B8%B0%EB%B0%98-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8DEvent-based-programming" target="_blank">이벤트 기반 프로그래밍</a>
+
+<br>
+
+----
+
+## IDE
+
+<br>
+
+###  ♢ IDE란?
+
+'Integrated Development Environment'의 약자. 통합개발환경을 뜻하는 용어로, 공통된 개발자 툴을 하나의 그래픽 사용자 인터페이스로 결합하는 애플리케이션으로 구축하기 위한 소프트웨어를 말한다.<br>
+보통 개발 시 필요한 편집기, 언어팩, syntax highlighting, git 연동, 터미널, 각종 테마, 기타 플러그인 등을 포함하는 '개발하며 사용되는 도구들의 집합'이라고 볼 수 있다.
+<br>
+
+
+###  ♢ 언어별 IDE 의 종류
+
+  - Visual Studio (VS Code)
+  > C, C++, C#, F# 등 다양한 언어에 대한 개발 환경을 지원을 하고, 특히 C 계열의 언어를 사용하는 사람들이 많이 사용.<br>
+
+<br>
+
+  - Xcode
+  > 맥에서 사용되는 통합 개발 환경. swift3/4, cocoa 등 IOS 네이티브 앱 개발을 위해서는 필수적으로 거쳐야 하는 관문. <br>
+
+  <br>
+
+
+
+
+
+출처: <a href="https://cordelia273.space/27" target="_blank">통합 개발 환경(IDE), 어떤 걸 써야 할까?</a>
