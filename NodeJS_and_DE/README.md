@@ -80,8 +80,14 @@ Compile 언어로 C/C++을 들 수 있으며, Java 역시 컴파일러가 Java�
 
   <br>
 
+  - Eclipse
+  >  Oracle에서 개발. Java 개발에 최적화 되어있어 주로 Java 개발에 많이 이용.  JSP 등을 활용한 웹 개발에도 이용. 이외에도 C, C++, 각종 웹, 안드로이드 앱 개발 가능. <br>
 
+<br>
 
+  - Jetbrains Series
+  > Jetbrain사에서 개발한 IDE시리즈. Java, C/C++, C#, IOS, Database, PHP, Ruby, Go, javascript, Python 등 다양한 개발 언어를 지원. 각각의 언어에 대한 프로그램이 각각 따로 있기 때문에 용량을 많이 차지한다는 단점이 있다.
 
+<br>
 
 출처: <a href="https://cordelia273.space/27" target="_blank">통합 개발 환경(IDE), 어떤 걸 써야 할까?</a>
